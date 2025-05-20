@@ -1,0 +1,11 @@
+# Add requirements here -- numbesr on sure!!! 
+pandas
+numpy
+statsmodels
+scikit-learn
+seaborn
+matplotlib
+pingouin
+krippendorff
+statsmodels
+ace_tools_open
